@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.content-container {
+  background-color: #f1f5f9;
+  padding: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.left-nav-container {
+  background-color: #e2e8f0;
+  padding: 20px;
+}
+
+.right-nav-container {
+  background-color: #e2e8f0;
+  padding: 20px;
+  margin-left: 10px;
+}
